@@ -1,0 +1,21 @@
+body {
+    background-image: url(images/sumudu-mohottige-gneHEtwJl4o-unsplash.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  .tolu{
+    font-size: xx-large;
+    font-weight: bolder;
+  }
+  #greeting{
+    font-size: 300%;
+    font-weight: bolder;
+  }
+  
